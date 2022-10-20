@@ -10,3 +10,7 @@ Projeto desenvolvido com ReactJS (bundler ViteJS) e NodeJS com a finalidade de g
 * Área de configuração de perfil do usuário
 * Área de criação de anotação
 * Área de detalhes das anotações
+
+### Conceitos aplicados
+
+Desestruturação
