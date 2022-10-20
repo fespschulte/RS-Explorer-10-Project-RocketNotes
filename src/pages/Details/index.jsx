@@ -5,7 +5,7 @@ export function Details() {
   return (
     <Container>
       <h1>Hello</h1>
-      <Button></Button>
+      <Button title="Entrar" loading />
     </Container>
   )
 }
