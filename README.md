@@ -1,6 +1,6 @@
 # Project - RocketNotes
 
-Projeto desenvolvido com ReactJS (bulder ViteJS) e NodeJS com a finalidade de gerenciar anotações e links úteis. O projeto utiliza de estilização baseada em styled-components.
+Projeto desenvolvido com ReactJS (bundler ViteJS) e NodeJS com a finalidade de gerenciar anotações e links úteis. O projeto utiliza de estilização baseada em styled-components.
 
 ## Interfaces
 
