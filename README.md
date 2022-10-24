@@ -5,7 +5,6 @@ Projeto desenvolvido com ReactJS (bundler ViteJS) e NodeJS com a finalidade de g
 ## Interfaces
 
 * Área de login
-*
 * Área de cadastro
 * Área de home do usuário
 * Área de configuração de perfil do usuário
@@ -14,7 +13,4 @@ Projeto desenvolvido com ReactJS (bundler ViteJS) e NodeJS com a finalidade de g
 
 ### Conceitos aplicados
 
-Desestruturação e ...
-
-####
-A
+Desestruturação
