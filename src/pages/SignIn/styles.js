@@ -32,8 +32,10 @@ export const  Form = styled.form`
   > h2 {
     margin: 48px 0 24px;
   }
-  > button:first-of-type {
-    margin-bottom: 124px;
+  
+  > a {
+    margin-top: 124px;
+    color: ${({ theme }) => theme.COLORS.ORANGE};
   }
 `
 
