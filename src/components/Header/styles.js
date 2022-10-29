@@ -13,7 +13,7 @@ export const Container = styled.header`
   justify-content: space-between;
   padding: 0 80px;
 
-  background-color: ${({ theme }) => theme.COLORS.BACKGROUND_700};
+  background-color: ${({ theme }) => theme.COLORS.BACKGROUND_800};
 
 `
 
